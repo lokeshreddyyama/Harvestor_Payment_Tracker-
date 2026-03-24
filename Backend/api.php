@@ -3,10 +3,10 @@
 //  HARVESTER TRACKER — api.php (v2 with Authentication)
 // ============================================================
 
-define('DB_HOST', 'sql206.infinityfree.com');
-define('DB_USER', 'if0_41323807');
-define('DB_PASS', 'EJzOTp3hfcOmdv');
-define('DB_NAME', 'if0_41323807_harvester_db');
+define('DB_HOST', '');
+define('DB_USER', '');
+define('DB_PASS', '');
+define('DB_NAME', '');
 define('UPLOAD_DIR', __DIR__ . '/uploads/');
 
 header('Content-Type: application/json; charset=utf-8');
